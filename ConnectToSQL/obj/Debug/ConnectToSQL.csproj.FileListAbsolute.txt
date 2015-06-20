@@ -1,0 +1,15 @@
+D:\Kunytska\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe.config
+D:\Kunytska\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe
+D:\Kunytska\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.pdb
+D:\Kunytska\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.csprojResolveAssemblyReference.cache
+D:\Kunytska\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.exe
+D:\Kunytska\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.pdb
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe.config
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.exe
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.pdb
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL_\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe.config
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL_\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.exe
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL_\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.pdb
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL_\ConnectToSQL\ConnectToSQL\ConnectToSQL\obj\Debug\ConnectToSQL.csprojResolveAssemblyReference.cache
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL_\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.exe
+D:\ШАГ\Семестр_4\ADO.NET\ConnectToSQL_\ConnectToSQL\ConnectToSQL\ConnectToSQL\bin\Debug\ConnectToSQL.pdb
